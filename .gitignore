@@ -33,4 +33,4 @@ build/
 *.ctxt
 
 .DS_Store
-.m2
+/m2
